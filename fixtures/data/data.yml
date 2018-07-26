@@ -1,0 +1,6 @@
+Projects:
+  projects{1..100}:
+    name: "{{company.companyName}}"
+    description: "{{lorem.paragraph}}"
+    url_image: "https://via.placeholder.com/350x150"
+    url_project: "{{internet.url}}"
